@@ -2691,3 +2691,29 @@ mjx-container[display='true'] + br {
     padding: 10px 12px;
   }
 }
+body {
+  background: url("https://cdn.luogu.com.cn/upload/image_hosting/hob61gbj.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.content-wrap {
+  opacity: 0.5;
+}
+.sidebar {
+  opacity: 0.5;
+}
+.header-inner {
+  background: rgba(255,255,255,0.5);
+}
+.popup {
+  opacity: 0.5;
+}
+.main-inner {
+  margin-top: 60px;
+  padding: 60px 60px 60px 60px;
+  background: #fff;
+  opacity: 0.8;
+  min-height: 500px;
+}
