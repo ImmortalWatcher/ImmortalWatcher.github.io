@@ -2807,21 +2807,21 @@ body {
   background-position: 50% 50%;
 }
 .content-wrap {
-  opacity: 0.5;
+  opacity: 0.9;
 }
 .sidebar {
-  opacity: 0.5;
+  opacity: 0.9;
 }
 .header-inner {
-  background: rgba(255,255,255,0.5);
+  background: rgba(255,255,255,0.9);
 }
 .popup {
-  opacity: 0.5;
+  opacity: 0.9;
 }
 .main-inner {
   margin-top: 60px;
   padding: 60px 60px 60px 60px;
   background: #fff;
-  opacity: 0.8;
+  opacity: 0.9;
   min-height: 500px;
 }
